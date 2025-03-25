@@ -3,7 +3,7 @@
 `React - TypeScript - PostgrSQL - Node.js - Express.js - Tailwind - Axios - ReactRouterDom - Valibot - Jest - Supertest - Loaders - Actions - Swagger - Morgan` 👨‍💻
 
 > Éste es un proyecto que estuve realizando a base de un curso. </br>
-> Actualmente se encuentra en el respositorio: Back-end. Éste es el enlace para la parte del respositorio de Backend [Visita el respositorio Front-end](https://github.com/TheNormanJames/Product-administrator-and-REST-API)
+> Actualmente se encuentra en el respositorio: Back-end. Éste es el enlace para la parte del respositorio de Front-end [Visita el respositorio Front-end](https://github.com/TheNormanJames/Product-administrator-and-REST-API)
 
 ProdManager es una solución web FullStack desarrollada con el stack PERN para la administración eficiente de productos en tiendas y negocios. Con una interfaz intuitiva, permite crear, editar y administrar listas de productos, gestionando información clave como nombre, precio y disponibilidad. Además, incorpora formularios dinámicos para añadir nuevos productos de forma sencilla. Implementado en GitHub, Vercel y Render, ProdManager está optimizado para ofrecer un rendimiento ágil y una experiencia de usuario excepcional.
 
