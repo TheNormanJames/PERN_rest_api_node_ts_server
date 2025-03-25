@@ -5,8 +5,7 @@ export const getProducts = async (req: Request, res: Response) => {
   try {
     const products = await Product.findAll({
       order: [['id', 'Desc']],
-      limit: 2,
-      attributes: { exclude: ['createdAt', 'updatedAt', 'availability'] },
+      attributes: { exclude: ['createdAt', 'updatedAt'] },
     });
     res.json({ data: products });
   } catch (error) {
